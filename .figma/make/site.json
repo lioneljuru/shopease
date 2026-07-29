@@ -1,0 +1,11 @@
+{
+  "title": "ShopEase",
+  "description": "ShopEase is a mobile-first e-commerce platform that simplifies online shopping with fast product discovery, streamlined checkout, and clear order tracking for busy shoppers.",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
